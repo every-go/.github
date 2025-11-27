@@ -13,10 +13,10 @@
 <div align="center">
   <h2 text-align="center"> About me </h2>
   <p>
-    I'm a very passionate for the IT world. I like to experience new things everytime and I never want to stop. I like coding, practicizing, studying, reading manga, seeing anime, playing football and watching it.
+    I'm a very passionate for the IT world. I like to experience new things everytime and I never want to stop. I like coding, practicing, studying, reading manga, watching anime, playing football and watching it.
   </p>
   <p>
-    I also like a lot to teach. Now I teach maths to guys of high school but I would like one time to teach in a school, something like Maths or Informatics.
+    I also really like teaching. Now I teach high school students mathematics, and I would like to teach at a school one day, for example Maths or Computer Science.
   </p>
 </div>
 
@@ -37,7 +37,7 @@
       <ul>
         <li> Waiter and one experience for waiter of catering </li>
         <li> Cashier at a supermarket </li>
-        <li> An experience outside my city, precisely in Sardinia to being an animator </li>
+        <li> An experience outside my city, specifically in Sardinia, working as an animator. </li>
       </ul>
     </td>
   </tr>
