@@ -44,5 +44,5 @@
 </table>
 
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&textBg=false&reversal=false&fontColor=FFFFFF&section=footer](https://capsule-render.vercel.app/api?type=wave&height=300&color=71AD72&textBg=false&reversal=false&fontColor=FFFFFF&section=footer&stroke=FFFFFF)" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=71AD72&textBg=false&reversal=false&fontColor=FFFFFF&section=footer&stroke=FFFFFF" width="100%"/>
 </div>
